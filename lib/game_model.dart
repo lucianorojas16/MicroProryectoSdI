@@ -58,6 +58,7 @@ class GameModel {
         HistoryService.incrementLosses();
       }
     }
+    
   }
 
   String getHangmanDrawing() {

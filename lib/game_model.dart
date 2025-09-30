@@ -3,7 +3,7 @@ import 'history_service.dart';
 import 'hangman_utils.dart';
 
 class GameModel {
-  static const List<String> _words = ['FLUTTER', 'DART', 'MOVIL', 'APRENDIZAJE', 'JUEGO'];
+  static const List<String> _words = ['FLUTTER', 'DART', 'MOVIL', 'APRENDIZAJE', 'JUEGO', 'LUCIANO', 'MICROPROYECTO', 'UNIMET'];
 
   String _currentWord = '';
   List<String> _guessedLetters = [];

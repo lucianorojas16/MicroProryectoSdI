@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.white,
       ),
       home: const GameScreen(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
